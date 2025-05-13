@@ -15,5 +15,6 @@ This repository serves as a collaborative space for Zoonomics Working Group memb
 
 ## 📄 Contents
 
-1. Meeting Minutes from Zoonomics Working Group 
-2. Meeting Presentations (PowerPoints etc.)
+1. Documents
+2. Meeting Minutes from Zoonomics Working Group 
+3. Meeting Presentations (PowerPoints etc.)
