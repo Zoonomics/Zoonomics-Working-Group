@@ -15,6 +15,4 @@ This repository serves as a collaborative space for Zoonomics Working Group memb
 
 ## 📄 Contents
 
-1. [Meeting Minutes](#meeting-minutes)
-2. [Metadata Standards](#metadata-standards)
-3. 
+1. Meeting Minutes from Zoonomics Working Group 
