@@ -18,4 +18,4 @@ This repository serves as a collaborative space for Zoonomics Working Group memb
 1. Documents
 2. Meeting Minutes from Zoonomics Working Group 
 3. Meeting Presentations (PowerPoints etc.)
-4. Group Task (Danica to update this)
+4. Group Tasks 
