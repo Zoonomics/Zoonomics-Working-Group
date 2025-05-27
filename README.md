@@ -15,6 +15,6 @@ This repository serves as a collaborative space for Zoonomics Working Group memb
 
 ## 📄 Contents
 
-1. Finalized Meeting-Specific Documents (Meeting Minutes, Presentations)
-2. Live Working Documents (Collaborative space for living/working documents that are still in progress)
-3. Who We Are (Group Charter, Contact List of Current Members)
+1. 01_Who We Are (Group Charter, Contact List of Current Members)
+2. 02_Live Working Documents (Collaborative space for living/working documents that are still in progress)
+3. 03_Finalized Meeting-Specific Documents (Meeting Minutes, Presentations)
