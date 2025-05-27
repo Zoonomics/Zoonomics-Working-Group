@@ -17,4 +17,3 @@ This repository serves as a collaborative space for Zoonomics Working Group memb
 
 1. Documents
 2. Meeting Presentations (PowerPoints etc.)
-3. Group Tasks 
