@@ -15,6 +15,6 @@ This repository serves as a collaborative space for Zoonomics Working Group memb
 
 ## 📄 Contents
 
-1. Documents
-2. General Information for Working Group Members (Charter, Contact list,etc.)
-3. Meeting Presentations (PowerPoints etc.)
+1. General Information (Charter, Contact list,etc.)
+2. Meeting Presentations (PowerPoints etc.)
+3. Working Group Member Resources (Meeting Minutes, In Progress Documents, etc.)
